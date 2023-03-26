@@ -1,0 +1,15 @@
+C:\Projects\dotnet-struct-vs-class\StructClass.PerformanceTest\bin\Debug\net6.0\StructClass.PerformanceTest.exe
+C:\Projects\dotnet-struct-vs-class\StructClass.PerformanceTest\bin\Debug\net6.0\StructClass.PerformanceTest.deps.json
+C:\Projects\dotnet-struct-vs-class\StructClass.PerformanceTest\bin\Debug\net6.0\StructClass.PerformanceTest.runtimeconfig.json
+C:\Projects\dotnet-struct-vs-class\StructClass.PerformanceTest\bin\Debug\net6.0\StructClass.PerformanceTest.dll
+C:\Projects\dotnet-struct-vs-class\StructClass.PerformanceTest\bin\Debug\net6.0\StructClass.PerformanceTest.pdb
+C:\Projects\dotnet-struct-vs-class\StructClass.PerformanceTest\obj\Debug\net6.0\StructClass.PerformanceTest.csproj.AssemblyReference.cache
+C:\Projects\dotnet-struct-vs-class\StructClass.PerformanceTest\obj\Debug\net6.0\StructClass.PerformanceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\dotnet-struct-vs-class\StructClass.PerformanceTest\obj\Debug\net6.0\StructClass.PerformanceTest.AssemblyInfoInputs.cache
+C:\Projects\dotnet-struct-vs-class\StructClass.PerformanceTest\obj\Debug\net6.0\StructClass.PerformanceTest.AssemblyInfo.cs
+C:\Projects\dotnet-struct-vs-class\StructClass.PerformanceTest\obj\Debug\net6.0\StructClass.PerformanceTest.csproj.CoreCompileInputs.cache
+C:\Projects\dotnet-struct-vs-class\StructClass.PerformanceTest\obj\Debug\net6.0\StructClass.PerformanceTest.dll
+C:\Projects\dotnet-struct-vs-class\StructClass.PerformanceTest\obj\Debug\net6.0\refint\StructClass.PerformanceTest.dll
+C:\Projects\dotnet-struct-vs-class\StructClass.PerformanceTest\obj\Debug\net6.0\StructClass.PerformanceTest.pdb
+C:\Projects\dotnet-struct-vs-class\StructClass.PerformanceTest\obj\Debug\net6.0\StructClass.PerformanceTest.genruntimeconfig.cache
+C:\Projects\dotnet-struct-vs-class\StructClass.PerformanceTest\obj\Debug\net6.0\ref\StructClass.PerformanceTest.dll
